@@ -79,19 +79,6 @@ Este projeto é um script Python para realizar scraping de informações de prod
 - A função `scrape_mercadolivre` coleta dados da página inicial de resultados da pesquisa no Mercado Livre e pode não captar todos os produtos em páginas subsequentes.
 - O script elimina produtos que não pertencem ao nicho pesquisado, garantindo uma análise mais precisa.
 
----
-
-## Melhorias Futuras
-
-- Adicionar suporte para múltiplas páginas de resultados.
-- Implementar tratamento de erros mais robusto para lidar com mudanças na estrutura do HTML do Mercado Livre.
-- Otimizar o tempo de resposta para grandes volumes de dados.
-
----
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com este projeto! Faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
 
 ---
 
@@ -100,4 +87,3 @@ Sinta-se à vontade para contribuir com este projeto! Faça um fork do repositó
 Este projeto está licenciado sob a [MIT License](LICENSE).
 ```
 
-Você pode personalizar este modelo com os detalhes específicos do seu projeto, como o nome do script, seu nome de usuário no GitHub, ou outros pontos relevantes. Se precisar de algo mais, é só pedir! 😊
