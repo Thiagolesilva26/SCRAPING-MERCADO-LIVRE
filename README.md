@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Programa de Scraping no Mercado Livre
 
 Este projeto é um script Python para realizar scraping de informações de produtos no Mercado Livre, incluindo nome, preço, avaliações, vendedor, vendas, entre outros dados. Ele também permite gerar uma análise detalhada desses dados utilizando a API Google Generative AI.
@@ -83,23 +83,8 @@ Este projeto é um script Python para realizar scraping de informações de prod
 
 ---
 
-## Melhorias Futuras
-
-- Adicionar suporte para múltiplas páginas de resultados.
-- Implementar tratamento de erros mais robusto para lidar com mudanças na estrutura do HTML do Mercado Livre.
-- Otimizar o tempo de resposta para grandes volumes de dados.
-
----
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com este projeto! Faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
-
----
-
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 ```
 
-Você pode personalizar este modelo com os detalhes específicos do seu projeto, como o nome do script, seu nome de usuário no GitHub, ou outros pontos relevantes. Se precisar de algo mais, é só pedir! 😊
