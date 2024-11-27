@@ -1,6 +1,4 @@
-Com base no seu script, aqui está um modelo detalhado para o `README.md`. Ele descreve os requisitos, instruções de uso e detalhes técnicos do script:
 
-```markdown
 # Programa de Scraping no Mercado Livre
 
 Este projeto é um script Python para realizar scraping de informações de produtos no Mercado Livre, incluindo nome, preço, avaliações, vendedor, vendas, entre outros dados. Ele também permite gerar uma análise detalhada desses dados utilizando a API Google Generative AI.
