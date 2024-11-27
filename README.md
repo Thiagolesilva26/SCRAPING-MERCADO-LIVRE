@@ -53,7 +53,7 @@ Este projeto é um script Python para realizar scraping de informações de prod
 
 3. Execute o script:
    ```bash
-   python seu_script.py
+   python scraping.py
    ```
 
 4. Insira as informações solicitadas:
@@ -68,7 +68,7 @@ Este projeto é um script Python para realizar scraping de informações de prod
 
 ## Estrutura do Projeto
 
-- `seu_script.py`: Script principal que realiza o scraping e análise.
+- `scraping.py`: Script principal que realiza o scraping e análise.
 - Arquivos de saída:
   - `dados.txt`: Contém os detalhes completos dos produtos.
   - `dados.csv`: Dados organizados para análise em planilhas.
