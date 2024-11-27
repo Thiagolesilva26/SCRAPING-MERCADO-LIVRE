@@ -1,4 +1,4 @@
-Com base no seu script, aqui está um modelo detalhado para o `README.md`. Ele descreve os requisitos, instruções de uso e detalhes técnicos do script:
+
 
 ```markdown
 # Programa de Scraping no Mercado Livre
